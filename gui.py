@@ -86,4 +86,3 @@ class Gui(threading.Thread):
         # Be IDLE friendly. If you forget this line, the program will 'hang'
         # on exit.
         pygame.quit()
-
